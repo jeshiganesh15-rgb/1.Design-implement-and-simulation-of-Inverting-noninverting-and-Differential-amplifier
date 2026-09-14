@@ -90,8 +90,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 
   **TABULATION:**
-  
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (5)" src="https://github.com/user-attachments/assets/11d4aa4d-9bfd-4e0e-b75c-72acf90770d5" />
+  <img width="737" height="1600" alt="WhatsApp Image 2026-09-14 at 9 26 57 PM" src="https://github.com/user-attachments/assets/eec0f943-5c9f-4024-9d1d-e2b1dae0d4eb" />
+
 
  
 
@@ -110,8 +110,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 
   **TABULATION:**
+<img width="737" height="1600" alt="WhatsApp Image 2026-09-14 at 9 26 56 PM" src="https://github.com/user-attachments/assets/f29aeab0-d308-416f-ba89-f9b938e3f24e" />
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (6)" src="https://github.com/user-attachments/assets/693cb696-da47-4236-a37b-72f6313449d5" />
 
 
   **DIFFERENTIAL AMPLIFIER:**
@@ -126,14 +126,13 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 
   **TABULATION:**
+<img width="737" height="1600" alt="WhatsApp Image 2026-09-14 at 9 26 56 PM (1)" src="https://github.com/user-attachments/assets/ba86e97c-a4e7-4c20-9974-3431b9894bdb" />
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (7)" src="https://github.com/user-attachments/assets/c1ea7ef7-09c2-4094-b1af-d262b6aad70d" />
 
   **Graph**
+<img width="1212" height="1600" alt="WhatsApp Image 2026-09-14 at 9 32 38 PM" src="https://github.com/user-attachments/assets/d2280299-f275-44c2-8bbe-bf63ca62c093" />
 
-
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 08 PM (2)" src="https://github.com/user-attachments/assets/7276a6b8-5ba9-4f6e-a663-58a87e5fd714" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 07 PM (8)" src="https://github.com/user-attachments/assets/e1de1b9e-2178-4308-b31e-ebcdb981f9af" />
+<img width="1099" height="1600" alt="WhatsApp Image 2026-09-14 at 9 33 16 PM" src="https://github.com/user-attachments/assets/099985da-11ee-4bbc-9e62-b07086a35d8c" />
 
 
 
@@ -149,11 +148,11 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  <img width="966" height="1600" alt="WhatsApp Image 2026-09-14 at 9 35 49 PM" 
+      <img width="902" height="1600" alt="WhatsApp Image 2026-09-14 at 9 35 50 PM" src="https://github.com/user-attachments/assets/4a8bfb72-d585-4eca-9082-2151c8527b2e" />
+src="https://github.com/user-attachments/assets/e439ac99-e76e-4b65-95dc-6e67b3903df6" />
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 11 PM (3)" src="https://github.com/user-attachments/assets/7ea90de0-44cf-47e9-ba72-e3e4786aaba4" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 11 PM (2)" src="https://github.com/user-attachments/assets/1fed19f9-32a2-46c5-b45f-e1dc8e6d23c3" />
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 10 PM (2)" src="https://github.com/user-attachments/assets/5f0d700b-5b28-4457-93b7-f0e020c175d1" />
-
+  
   
 
 **RESULT:**
